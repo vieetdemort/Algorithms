@@ -270,6 +270,7 @@ def fast_min_cut(graph):
         # print(i, m)
     return m
     
+    
 # Simple test
 '''graph = Graph([[1,2,3],[2,1,3,4],[3,1,2,4],[4,2,3]])
 print(fast_min_cut(graph))'''
